@@ -4,11 +4,6 @@ An arcade-style game built with **Pygame** where the player collects items to sc
 
 ---
 
-## 📸 Screenshots
-*(Add images of your gameplay, welcome screen, and game over screen here)*
-
----
-
 ## 🚀 Features
 
 - ✅ Dark horror-themed UI
