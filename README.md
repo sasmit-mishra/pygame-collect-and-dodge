@@ -33,5 +33,3 @@ An arcade-style game built with **Pygame** where the player collects items to sc
 
 ---
 
-## 📂 Folder Structure
-
